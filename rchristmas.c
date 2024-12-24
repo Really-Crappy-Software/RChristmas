@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <ncurses.h>
-#include "colour.h"
+#include <colour.h>
 #include <unistd.h>
 #include <signal.h>
 #include <string.h>
